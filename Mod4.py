@@ -1,6 +1,8 @@
 import turtle
 import colorsys
 
+def main():
+    draw_mod4()
 
 def draw_mod4():
     t = turtle.Turtle()
@@ -26,10 +28,6 @@ def draw_mod4():
  #   turtle.done()
     t.clear()
  
-
-def main():
-    draw_mod4()
-
 
 if __name__ == "__main__":
     main()
