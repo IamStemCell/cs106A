@@ -3,6 +3,11 @@ import turtle
 import math
 import colorsys
 
+def main():
+# Draw the sunflower
+    draw_sunflower()
+    #turtle.done()
+
 # Function to draw a single sunflower seed with changing color
 def draw_seed():
     # Calculate color based on hue component
@@ -42,10 +47,7 @@ def draw_sunflower():
 # Initialize hue for color cycling
 hue = 0
 
-def main():
-# Draw the sunflower
-    draw_sunflower()
-    #turtle.done()
+
 if __name__ == "__main__":
     main()
 
