@@ -1,6 +1,9 @@
 
 from turtle import*
 
+def main():
+    polygon(5,150)
+
 def polygon(sides, side_len):
     speed(0)
     bgcolor("black")
@@ -13,9 +16,6 @@ def polygon(sides, side_len):
         left(2)
         polygon(sides, side_len-1)
     clear()
-
-def main():
-    polygon(5,150)
 
  
 if __name__ == "__main__":
