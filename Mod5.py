@@ -2,6 +2,10 @@
 from turtle import *
 import colorsys
 
+def main():
+    draw_flower()
+
+
 def draw_flower():
     speed(0)
     bgcolor("black")
@@ -19,9 +23,6 @@ def draw_flower():
             rt(180)
         circle(40,24)
     clear()
-
-def main():
-    draw_flower()
 
 
 if __name__ == "__main__":
