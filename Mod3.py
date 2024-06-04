@@ -3,8 +3,6 @@ import turtle
 def main():
    
     screen = turtle.Screen()
-    screen.setup(width=900, height=900)
-    screen.title("Koch Snowflake for Code In Place 2024 by Svitlana P")
     screen.bgcolor("black")
 
     t = turtle.Turtle()
@@ -16,8 +14,8 @@ def main():
     t.goto(-150, 100)
     t.pendown()
     koch_snowflake(t, 4, 300)
+    t.clear()
 
-    screen.mainloop()
 
 def koch_curve(t, order, size):
     if order == 0:
