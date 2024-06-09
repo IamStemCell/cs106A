@@ -1,10 +1,10 @@
 https://youtu.be/_Kjk4mGGNlk
 
-[![Video Title](https://img.youtube.com/vi/MrlCr75mqy8/0.jpg)](https://youtu.be/_Kjk4mGGNlk).
+[![Video Title](https://img.youtube.com/vi/_Kjk4mGGNlk/0.jpg)](https://youtu.be/_Kjk4mGGNlk).
 
 
 
-https://youtube.com/watch?v=&feature=shared
+
 
 The "Cyber Art Exhibit" is a fully functional console-based application designed to provide an immersive and interactive digital art exhibit experience. Utilizing the Graphics Turtle package in Python, this project aims to blend the realms of programming and visual art, offering users an engaging way to explore and interact with digital art.
 In a nutshell, it's an engaging and educational tool that demonstrates the artistic potential of programming.
