@@ -1,6 +1,6 @@
 https://youtu.be/_Kjk4mGGNlk
 
-[![Video Title](https://img.youtube.com/vi/_Kjk4mGGNlk/0.jpg)](https://youtu.be/_Kjk4mGGNlk).
+[![Video Title](https://img.youtube.com/vi/_Kjk4mGGNlk/0.jpg)](https://youtu.be/_Kjk4mGGNlk)
 
 
 
